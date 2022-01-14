@@ -29,6 +29,16 @@ Unit DAO is a coordination framework to elaborate and evolve standards. It is ba
 - Verification: Reputational Digital Identity for Organisations. Who they are, and what they can do.
 - Automation: On-chain and off-chain Issuance, verification, and revocation of Credentials
 
+Unite DAO is also based in Guilds (Working Groups), where specific topics are discussed. At every level we have a Coordinator and Guilds. The Coordinator is the responsible of creating and allocating resources to Guilds.
+Every Guild can create a new sub-Guild with a Coordinator and more Guilds, in case that particular Guild needs to scale.
+
+![Unite DAO - Guilds](./assets/unite1.jpg)
+
+To participate in a Guild participants need to stake our Token to get Voting Power, and so, be an active part of the Guild.
+
+![Unite DAO - Guilds](./assets/unite2.jpg)
+
+
 ### Step 1: Coordination
 Cooperation is not possible without a common language we all agree on. And building this common framework should be a coordination task. That's why a DAO is a perfect instrument for that.
  
@@ -114,10 +124,10 @@ WIP
 - [x] Incorporation of newCo - SLU (owned by Alfa CAeli)
 
 ### January 2021 Private Sale - Coordinators
-- [] newCo does a Private Sale with a SAFT. newCo spends all the money of Private Sale - Protocol, paying the services in advance.
+- [ ] newCo does a Private Sale with a SAFT. newCo spends all the money of Private Sale - Protocol, paying the services in advance.
 Target : Blockchain Protocols and VC firms. Protocols and VCs have a legal Agreement. Tokens go to a an exchange and from there to the newCo
 
-- []The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
+- [ ] The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
   - Alfa Caeli : coordination & Partnerships (300K$)
   - Community Lead (70k€)
   - Caelum Labs : Blockchain development (1M$)
@@ -127,17 +137,17 @@ Target : Blockchain Protocols and VC firms. Protocols and VCs have a legal Agree
   - Security Firm : Audits (135.5K$)
 
 ### March 2021 DAO Incorporation
-- [] The DAO gets incorporated
-- [] UniteDAO Alfa goes online.
-- [] newCo closes operations, company is liquidated
-- [] At this point the company in Spain exists no more, only the DAO manages the treasury through proposals.
+- [ ] The DAO gets incorporated
+- [ ] UniteDAO Alfa goes online.
+- [ ] newCo closes operations, company is liquidated
+- [ ] At this point the company in Spain exists no more, only the DAO manages the treasury through proposals.
 
 ### March 2021 Public Sale - Whitelisted
-- [] The DAO does the Public Sale - Whitelisted
-- [] Funds go to the treasury of the DAO
-- [] To participate in the Public Sale, a verification process is performed.
+- [ ] The DAO does the Public Sale - Whitelisted
+- [ ] Funds go to the treasury of the DAO
+- [ ] To participate in the Public Sale, a verification process is performed.
 
 ### April 2021 Public Sale - Open
-- [] The DAO does the Public Sale - Open
-- [] Funds go to the treasury of the DAO
+- [ ] The DAO does the Public Sale - Open
+- [ ] Funds go to the treasury of the DAO
 
