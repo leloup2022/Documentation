@@ -1,5 +1,6 @@
+![Unite DAO](./assets/logo1.png)
 # Problem Statement
-Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). All of these traditional institutions are usually lobbies with no transparency, no interoperability, and no modern tools to develop applications on top of them.
+Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). All of these traditional institutions are usually aencies with no transparency, no interoperability, and no modern tools to develop applications on top of them.
  
 In the traditional Identity Landscape, Trust is achieved by centralization and protection of already existing players. Innovation is always slow and limited to a small set of participants.
  
@@ -43,27 +44,27 @@ To achieve that we need to create four main frameworks to work on:
  
 It's getting more important every day to verify that a Smart Contract has been issued by the correct organization, that has already been audited by a known company, verified in the DAO and allowed to issue a -Security TAG, and that the company works at the highest level of security constrains.
  
-** DeFi **
+**DeFi**
 Also, financial information could help take better decisions (even automated) on Risk Management and/or Investment opportunities. A verified company, with the right to isse these TAGs, could verify the TVL and/or the APY of another contract as a TAG
  
-** And Many more **
+**And Many more**
 DAO Governance, NFT applications, Local commerce,
  
-###Step 2: Verification
+### Step 2: Verification
 Verifiable Credentials, once identified, must be issued to organizations, but once again, we need coordination in the verification of participants in the DAO.
 - Verification Process
 - Staking
 - Vigilantes
  
-** Verification Process **
+**Verification Process**
 Trusted Organizations will act as Certificate Authorities (CAs) in the DAO, we call this process Trust Mining. By verifying organizations in the DAO, and not letting bad players enter, the TO will receive -rewards in the form of SAO tokens.
  
 First Organizations acting as TOs will be the ones participating in the Private Sale, doing a proper KYB, and being approved initially by all other organizations.
  
-** Staking **
+**Staking**
 Trusted Organizations will act as Certificate Authorities (CAs) in the DAO, we call this process Trust Mining. By verifying organizations in the DAO, 
  
-** Vigilantes **
+**Vigilantes**
 Gamification: By proving wrong organizations and/or wrong certificates being issued, whatchDogs
 
 ### Step 3 : Automation
