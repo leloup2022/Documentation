@@ -32,11 +32,18 @@ Unit DAO is a coordination framework to elaborate and evolve standards. It is ba
 Unite DAO is also based in Guilds (Working Groups), where specific topics are discussed. At every level we have a Coordinator and Guilds. The Coordinator is the responsible of creating and allocating resources to Guilds.
 Every Guild can create a new sub-Guild with a Coordinator and more Guilds, in case that particular Guild needs to scale.
 
-![Unite DAO - Guilds](./assets/unite1.jpg)
+![Unite DAO - Guilds](./assets/unite2.jpg)
 
 To participate in a Guild participants need to stake our Token to get Voting Power, and so, be an active part of the Guild.
+Every Guild will have an elected commitee with two main roles.
 
-![Unite DAO - Guilds](./assets/unite2.jpg)
+The process:
+1. Someone with Voting Power for that Guild will send a proposal : new standard, evolve standard, trusted operators...
+2. The proposal needs to be passed by the Commitee (threshold)
+3. Then the proposal goes to voting (voting period). Only Voting Power in that Guild can vote.
+4. When the proposal is approved, the commitee has a few days to stop it (bigger threshold).
+
+![Unite DAO - Guilds](./assets/unite1.jpg)
 
 
 ### Step 1: Coordination
@@ -128,13 +135,13 @@ WIP
 Target : Blockchain Protocols and VC firms. Protocols and VCs have a legal Agreement. Tokens go to a an exchange and from there to the newCo
 
 - [ ] The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
-  - Alfa Caeli : coordination & Partnerships (300K$)
-  - Community Lead (70k€)
-  - Caelum Labs : Blockchain development (1M$)
-  - Web Studio : Design, frontend and App (500K$)
-  - Legal Firm : Incorporate a DAO in Wyoming (200K$)
-  - PR Firm (1.155M$)
-  - Security Firm : Audits (135.5K$)
+  - Alfa Caeli : coordination & Partnerships
+  - Community Lead : FReelance
+  - Caelum Labs : Blockchain development
+  - Web Studio : Design, frontend and App
+  - Legal Firm : Incorporate a DAO in Wyoming
+  - PR Firm 
+  - Security Firm : Audits
 
 ### March 2021 DAO Incorporation
 - [ ] The DAO gets incorporated
