@@ -25,58 +25,44 @@ Trust on the Internet has come to rely almost exclusively on a selected group of
 A DAO to achieve Trustless Interoperability
 Unit DAO is a coordination framework to elaborate and evolve standards. It is based On three principles: Coordination, Verification, and Automation
  
-## Coordination: Community-driven mechanism to elaborate and evolve standards.
-Verification: Reputational Digital Identity for Organisations. Who they are, and what they can do.
-Automation: On-chain and off-chain Issuance, verification, and revocation of Credentials
-Three Steps to trustless Interoperability
- 
+- Coordination: Community-driven mechanism to elaborate and evolve standards.
+- Verification: Reputational Digital Identity for Organisations. Who they are, and what they can do.
+- Automation: On-chain and off-chain Issuance, verification, and revocation of Credentials
+
 ### Step 1: Coordination
 Cooperation is not possible without a common language we all agree on. And building this common framework should be a coordination task. That's why a DAO is a perfect instrument for that.
  
 Also, Standards should be created by those using them, with Skin in the Game, not from remote offices by professional politicians.
  
-To achieve that we need to create four main frameworks to work on:
+To achieve that we need to create coordination working groups to focus on:
 - Protocols
+- Metaverse & NFTs
 - Compliance (security)
 - DeFi
-- Metaverse & NFT
-- Security
  
 It's getting more important every day to verify that a Smart Contract has been issued by the correct organization, that has already been audited by a known company, verified in the DAO and allowed to issue a -Security TAG, and that the company works at the highest level of security constrains.
- 
-**DeFi**
 Also, financial information could help take better decisions (even automated) on Risk Management and/or Investment opportunities. A verified company, with the right to isse these TAGs, could verify the TVL and/or the APY of another contract as a TAG
  
 **And Many more**
-DAO Governance, NFT applications, Local commerce,
+DAO Governance, NFT applications, Local commerce....
  
 ### Step 2: Verification
-Verifiable Credentials, once identified, must be issued to organizations, but once again, we need coordination in the verification of participants in the DAO.
+Verifiable Credentials, once identified as standards themselves, must be issued to organizations, but once again, we need coordination in the verification of participants in the DAO.
 - Verification Process
-- Staking
-- Vigilantes
+- Staking & Online Court
  
 **Verification Process**
-Trusted Organizations will act as Certificate Authorities (CAs) in the DAO, we call this process Trust Mining. By verifying organizations in the DAO, and not letting bad players enter, the TO will receive -rewards in the form of SAO tokens.
- 
-First Organizations acting as TOs will be the ones participating in the Private Sale, doing a proper KYB, and being approved initially by all other organizations.
+TRusted Organizations will claim their right to issue certificates on a particular standard by participating in the standard and by proposing themselves as trusted operators for that credential. Every Working group will have a WhiteList with the TRusted Operators for every standard coordinated in that WG. 
  
 **Staking**
-Trusted Organizations will act as Certificate Authorities (CAs) in the DAO, we call this process Trust Mining. By verifying organizations in the DAO, 
+In order to become a TRsuted Operator, x number of tokens need to be staked to that particular WG. Slashing may occur when there's a bad issuance of certificates. We will rely in Kleros for this discussions.
  
-**Vigilantes**
-Gamification: By proving wrong organizations and/or wrong certificates being issued, whatchDogs
-
 ### Step 3 : Automation
 Step Three: who can issue every standard
  
 Finally, we arrive at the end of this awesome journey. Thanks to the coordination and the verification that UNIT DAO provides the working groups will also be in charge of automation processes.
 What do we mean by automation? Well, that's a very good question. When we talk about automation we are referring to multiple meanings.
  
-The key to this question is to understand the 3 mentioned steps as a whole interconnected process
- 
-Once organized and coordinated the working groups
-
 An example of this could be the automatization of protocols and DAOs verifications. Let's say a DeFi platform wants to get verified, but, verified on what?  Smart contract auditions, front end security, enough decentralization. The list could go on...
  
 We need an automated process in order to speed up and facilitate the issuance of certificates and verifications. And not letting bad players enter, the TO will receive rewards in the form of CAELUM tokens.
@@ -125,32 +111,33 @@ WIP
  
 # Roadmap
 ### December 2021 Incorporation
-Incorporation of newCo - SLU (owned by Alfa CAeli)
+- [x] Incorporation of newCo - SLU (owned by Alfa CAeli)
 
 ### January 2021 Private Sale - Coordinators
-newCo does a Private Sale with a SAFT. newCo spends all the money of Private Sale - Protocol, paying the services in advance.
+- [] newCo does a Private Sale with a SAFT. newCo spends all the money of Private Sale - Protocol, paying the services in advance.
 Target : Blockchain Protocols and VC firms. Protocols and VCs have a legal Agreement. Tokens go to a an exchange and from there to the newCo
 
-The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
-- Alfa Caeli : coordination & Partnerships (300K$)
-- Caelum Labs : Blockchain development (1M$)
-- Web Studio : Design, frontend and App (500K$)
-- Legal Firm : Incorporate a DAO in Wyoming (200K$)
-- PR Firm (1.155M$)
-- Security Firm : Audits (135.5K$)
+- []The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
+  - Alfa Caeli : coordination & Partnerships (300K$)
+  - Community Lead (70k€)
+  - Caelum Labs : Blockchain development (1M$)
+  - Web Studio : Design, frontend and App (500K$)
+  - Legal Firm : Incorporate a DAO in Wyoming (200K$)
+  - PR Firm (1.155M$)
+  - Security Firm : Audits (135.5K$)
 
 ### March 2021 DAO Incorporation
-The DAO gets incorporated
-UniteDAO Alfa goes online.
-newCo closes operations, company is liquidated
-At this point the company in Spain exists no more, only the DAO manages the treasury through proposals.
+- [] The DAO gets incorporated
+- [] UniteDAO Alfa goes online.
+- [] newCo closes operations, company is liquidated
+- [] At this point the company in Spain exists no more, only the DAO manages the treasury through proposals.
 
 ### March 2021 Public Sale - Whitelisted
-The DAO does the Public Sale - Whitelisted
-Funds go to the treasury of the DAO
-To participate in the Public Sale, a verification process is performed.
+- [] The DAO does the Public Sale - Whitelisted
+- [] Funds go to the treasury of the DAO
+- [] To participate in the Public Sale, a verification process is performed.
 
 ### April 2021 Public Sale - Open
-The DAO does the Public Sale - Open
-Funds go to the treasury of the DAO
+- [] The DAO does the Public Sale - Open
+- [] Funds go to the treasury of the DAO
 
