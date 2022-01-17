@@ -130,18 +130,10 @@ WIP
 ### December 2021 Incorporation
 - [x] Incorporation of newCo - SLU (owned by Alfa CAeli)
 
-### January 2021 Private Sale - Coordinators
-- [ ] newCo does a Private Sale with a SAFT. newCo spends all the money of Private Sale - Protocol, paying the services in advance.
-Target : Blockchain Protocols and VC firms. Protocols and VCs have a legal Agreement. Tokens go to a an exchange and from there to the newCo
-
+### February 2021 Fair Launch
+- [ ] 50MM Fides at 0,05$. newCo spends all the money of the Public Sale, paying the services in advance.
 - [ ] The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
-  - Alfa Caeli : coordination & Partnerships
-  - Community Lead : FReelance
-  - Caelum Labs : Blockchain development
-  - Web Studio : Design, frontend and App
-  - Legal Firm : Incorporate a DAO in Wyoming
-  - PR Firm 
-  - Security Firm : Audits
+(Initial development) [./development.md]
 
 ### March 2021 DAO Incorporation
 - [ ] The DAO gets incorporated
