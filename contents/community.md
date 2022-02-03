@@ -47,28 +47,33 @@ Keywords will be the central axis where we will create our content around.
 - **Keyword Research** — Use Google and Youtube auto-complete functions to find keywords.
 
 - **Develop Content Ideas** — Three main categories of content:
-1. *Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
-2. *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
-3. *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
+  1. *Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
+  2. *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
+  3. *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
 
-3 categories of content X 5 keywords X 10 ideas each = 150 content/month
+      3 categories of content X 5 keywords X 10 ideas each = 150 content/month
 
 - **Create amazing content** — Start content production:
 Anything that adds value to the viewer/reader.
 
   Make sure your 3 things are right:
-1. Titles
-2. Keywords
-3. Links
+  1. Titles
+  2. Keywords
+  3. Links
 
 - **Content Marketing** — Start promoting the content:
-1. Organic -— All our social network channels. 
-2. Paid — Facebook and LinkedIn ads. 
+  1. Organic -— All our social network channels. 
+  2. Paid — Facebook and LinkedIn ads. 
+
+## Content Strategy Map:
+Visit this link to see the Content Strategy Map:
 
 
 
-Content Strategy Map:
-Visit this link to see the Content Strategy Map
+
+
+
+
 Re-Use the Content (Micro-content):
 
 Break the Youtube videos into chunks/sections.
