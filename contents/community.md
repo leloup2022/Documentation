@@ -109,12 +109,12 @@ Collect email addresses and start using Value VSL Strategy:
 ## Key components to create a successful Discord Community:
 
 - Decide if it’s a closed or open community (Discord - paid or free).
-- Well-known Goals, Vision, Mission, Principles.
-- Goal-driven channel. 
+- Well-known Goals, Vision, Mission, Principles. Create a separate channel for this on Discord Server. 
+- Goal-driven channel. Members must know and seek the goals in our Discord Server.
 - Giveaways - Be careful because people will not care if you overdo it.
 - Shared experiences: play games together - NFT treasure hunt - find next good project together - Cookbook and other plays, games, and themes. Give incentives for that.
-- Keep them together, make them do all together stuff in crypto and NFT’s and Games.
-- We need to find the first niche (game) and then expand from there.
+- Keep members together, make them do stuff all together, talk crypto, NFT’s and Games.
+- We need to find the first niche (Game) and then expand from there. 
 - Inside jokes, emojis, stickers.
 - Rewards - Rewarding most active members.
 - Roles and Status Levels.
@@ -123,15 +123,15 @@ Collect email addresses and start using Value VSL Strategy:
 - Automation. Automate roles and inside games. 
 - Discord ME6 bot - Helps kick out links.
 - Discord Hashbot - Helps to watch similar names (impersonators).
-- Human to human connection and relationships - Try to welcome personally new members, every single one. 
-- Send some merch to the members. Incentives.
+- Human to human connection and relationships - Try to Welcome personally new members, every single one. 
+- Send some Merch to the members. Incentives.
 - Give them where to go to learn about it (channels, support, start guide).
 - Terminology of the community.
-- Conversations.
+- Conversations. Initiate conversations with members. 
 - People help each other - is this happening? (usually a sign of a healthy community).
 - Help and ask. Improvements - Ask the community how we can improve.
 - Mods. Assign some very active and helpful people as Mods of the community.
-- Hype and expectation - Well know ahead-of-time roadmap.
+- Hype and expectation - Well-known ahead-of-time roadmap.
 
 
 # Community Acquisition Strategy:
