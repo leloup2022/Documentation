@@ -79,28 +79,28 @@ Make sure your 3 things are right:
 
 ## Post Formula:
 
-(Headline)
-Hook
-Pain Points
-Solution
-CTA
+1. (Headline)
+2. Hook
+3. Pain Points
+4. Solution
+5. CTA
 
 
-Content Calendar and Tools:
+## Content Calendar and Tools:
 
-Create a content calendar. We use Sprout Social to schedule all posts.
-No more than 30 days upfront.
-Always leave some space for new ideas and breaking news.
+- Create a content calendar. We use Sprout Social to schedule all posts.
+- No more than 30 days upfront.
+- Always leave some space for new ideas and breaking news.
 
 
-Email Marketing:
+## Email Marketing:
 
 Collect email addresses and start using Value VSL Strategy:
-Visit this link to see the Value VSL Strategy
+[Visit this link to see the Value VSL Strategy](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
 
 
-Discord Community Building Guide:
+# Discord Community Building Guide:
 
 Setup Discord Channel
 Setup Permissions
