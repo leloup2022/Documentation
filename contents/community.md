@@ -47,9 +47,9 @@ Keywords will be the central axis where we will create our content around.
 - **Keyword Research** — Use Google and Youtube auto-complete functions to find keywords.
 
 - **Develop Content Ideas** — Three main categories of content:
-*Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
-*Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
-*Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
+-- *Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
+-- *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
+-- *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
 
 3 categories of content X 5 keywords X 10 ideas each = 150 content/month
 
