@@ -37,23 +37,23 @@ We have ready the main social media platforms for our content distribution. We w
 
 # Content strategy:
 
-- Inspiration — Problems and questions people ask in our niche. 
+- **Inspiration** — Problems and questions people ask in our niche. 
 We can look at socials and get inspiration for content. 
 
-Keywords — Main keywords. 
+- **Keywords** — Main keywords. 
 E.g., Web3 Standards, NFT gaming, Interoperability, DAO. 
 Keywords will be the central axis where we will create our content around. 
 
-Keyword Research — Use Google and Youtube auto-complete functions to find keywords.
+- **Keyword Research** — Use Google and Youtube auto-complete functions to find keywords.
 
-Develop Content Ideas — Three main categories of content:
-Motivational content - 5 keywords x 10 ideas = 50 peaces of content.
-Educational content - 5 keywords x 10 ideas = 50 peaces of content.
-Actionable content - 5 keywords x 10 ideas = 50 peaces of content.
+- **Develop Content Ideas** — Three main categories of content:
+*Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
+*Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
+*Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
 
 3 categories of content X 5 keywords X 10 ideas each = 150 content/month
 
-Create amazing content — Start content production:
+- **Create amazing content** — Start content production:
 Anything that adds value to the viewer/reader.
 Make sure your 3 things are right:
 Titles
