@@ -37,7 +37,7 @@ We have prepared the main social media platforms for our content distribution. W
 # Content strategy:
 
 1. **Inspiration** — Problems and questions people ask in our niche. 
-We can look at socials and get inspiration for content. 
+We also can look at our socials and get inspiration for content. 
 
 2. **Keywords** — Main keywords. 
 E.g., Web3 Standards, NFT gaming, Interoperability, DAO. 
@@ -54,7 +54,7 @@ Keywords will be the central axis where we will create our content around.
 
 5. **Create amazing content** — Start content production,produce anything that adds value to the viewer/reader.
 
-Make sure your 3 things are right:
+Make sure 3 things are right:
 - Titles
 - Keywords
 - Links
