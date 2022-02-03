@@ -11,7 +11,7 @@ Project success also depends on a solid and engaged community. So let's dive dee
 - Create Content Strategies for the different channels.
 
 
-**Key questions:**
+## Key questions:
 
 - *What macro content will we create?*
 - *On what channels will we create it?*
