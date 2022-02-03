@@ -102,10 +102,10 @@ Collect email addresses and start using Value VSL Strategy:
 
 # Discord Community Building Guide:
 
-Setup Discord Channel
-Setup Permissions
-Setup Roles
-Setup Bots
+1. Setup Discord Channel `(DONE)`
+2. Setup Permissions `(DONE)`
+3. Setup Roles `(DONE)`
+4. Setup Bots `(DONE)`
 
 Key components to create a successful Discord Community:
 
