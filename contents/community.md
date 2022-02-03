@@ -60,8 +60,8 @@ Keywords will be the central axis where we will create our content around.
 - Links
 
 6. **Content Marketing** — Start promoting the content:
-- Organic -— All our social network channels. 
-- Paid — Facebook and LinkedIn ads. 
+- Organic — All our social network channels. 
+- Paid — Facebook and LinkedIn ads.
 
 7. **Content Strategy Map:**
 [Visit this link to see the Content Strategy Map](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
