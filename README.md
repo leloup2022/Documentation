@@ -3,11 +3,11 @@
 # Index
 
 Work in Progress:
-- [ ] (DAO Structure)[./contents/structure.md]
-- [ ] (Technology Stack)[./contents/technology.md]
-- [ ] (Tokenomics)[./contents/tokenomics.md]
-- [ ] (Building Community)[./contents/community.md]
-- [ ](Legal)[./contents/legal.md] and (Ethics)[./contents/ethics.md]
+- [ ] [DAO Structure](./contents/structure.md)
+- [ ] [Technology Stack](./contents/technology.md)
+- [ ] [Tokenomics](./contents/tokenomics.md)
+- [ ] [Building Community](./contents/community.md)
+- [ ] [Legal](./contents/legal.md] and [Ethics](./contents/ethics.md)
 
 
 # Problem Statement
