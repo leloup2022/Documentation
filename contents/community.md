@@ -107,50 +107,50 @@ Collect email addresses and start using Value VSL Strategy:
 3. Setup Roles `(DONE)`
 4. Setup Bots `(DONE)`
 
-Key components to create a successful Discord Community:
+## Key components to create a successful Discord Community:
 
-Decide if it’s a closed or open community (Discord - paid or free).
-Well-known Goals, Vision, Mission, Principles.
-Goal-driven channel. 
-Giveaways - Be careful because people will not care if you overdo it.
-Shared experiences: play games together - NFT treasure hunt - find next good project together - Cookbook and other plays, games, and themes. Give incentives for that.
-Keep them together, make them do all together stuff in crypto and NFT’s and Games.
-We need to find the first niche (game) and then expand from there.
-Inside jokes, emojis, stickers.
-Rewards - Rewarding most active members.
-Roles and Status Levels.
-Security. Make sure the server is secure and everyone is safe. 
-Rules that keep the community safe.
-Automation. Automate roles and inside games. 
-Discord ME6 bot - Helps kick out links.
-Discord Hashbot - Helps to watch similar names (impersonators).
-Human to human connection and relationships - Try to welcome personally new members, every single one. 
-Send some merch to the members. Incentives.
-Give them where to go to learn about it (channels, support, start guide).
-Terminology of the community.
-Conversations.
-People help each other - is this happening? (usually a sign of a healthy community).
-Help and ask. Improvements - Ask the community how we can improve.
-Mods. Assign some very active and helpful people as Mods of the community.
-Hype and expectation - Well know ahead-of-time roadmap.
-
-
-Community Acquisition Strategy:
-
-Stage #1 — Build and Create:
-Build Social Channels.
-Build Youtube Channel.
-Create Content Strategy.
-
-Stage #2 — Deliver/Execute:
-Produce Youtube Videos.
-Post on Social Channels.
-Engage with Members. 
-
-Stage #3 — Maintain/Explore:
-Track Insights (KPI’s).
-Support Members.
-Look for Opportunities (Partnerships).
+- Decide if it’s a closed or open community (Discord - paid or free).
+- Well-known Goals, Vision, Mission, Principles.
+- Goal-driven channel. 
+- Giveaways - Be careful because people will not care if you overdo it.
+- Shared experiences: play games together - NFT treasure hunt - find next good project together - Cookbook and other plays, games, and themes. Give incentives for that.
+- Keep them together, make them do all together stuff in crypto and NFT’s and Games.
+- We need to find the first niche (game) and then expand from there.
+- Inside jokes, emojis, stickers.
+- Rewards - Rewarding most active members.
+- Roles and Status Levels.
+- Security. Make sure the server is secure and everyone is safe. 
+- Rules that keep the community safe.
+- Automation. Automate roles and inside games. 
+- Discord ME6 bot - Helps kick out links.
+- Discord Hashbot - Helps to watch similar names (impersonators).
+- Human to human connection and relationships - Try to welcome personally new members, every single one. 
+- Send some merch to the members. Incentives.
+- Give them where to go to learn about it (channels, support, start guide).
+- Terminology of the community.
+- Conversations.
+- People help each other - is this happening? (usually a sign of a healthy community).
+- Help and ask. Improvements - Ask the community how we can improve.
+- Mods. Assign some very active and helpful people as Mods of the community.
+- Hype and expectation - Well know ahead-of-time roadmap.
 
 
-The keyword for success is — VALUE.
+# Community Acquisition Strategy:
+
+## Stage #1 — Build and Create:
+- Build Social Channels. `(DONE)`
+- Build Youtube Channel. `(DONE)`
+- Create Content Strategy. `(DONE)`
+
+## Stage #2 — Deliver/Execute:
+- Produce Youtube Videos. `(WIP)`
+- Post on Social Channels. `(WIP)`
+- Engage with Members. `(WIP)`
+
+## Stage #3 — Maintain/Explore:
+- Track Insights (KPI’s). `(WIP)`
+- Support Members. `(WIP)`
+- Look for Opportunities (Partnerships). `(WIP)`
+
+
+# The keyword for success is — VALUE.
