@@ -66,7 +66,7 @@ Anything that adds value to the viewer/reader.
  2. Paid — Facebook and LinkedIn ads. 
 
 ## Content Strategy Map:
-Visit this link to see the Content Strategy Map:
+[Visit this link to see the Content Strategy Map](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
 
 
