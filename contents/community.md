@@ -23,14 +23,14 @@ Project success also depends on a solid and engaged community. So let's dive dee
 
 **Macro-content:**
 
-- **Youtube.**
+- **Youtube**
 
 Our focus will be on the Youtube channel. This will be our main Macro channel. The first 6 episodes will be with Alex Puig (Alex) and Arturas Salnikovas (Art). Later we will invite other team members from different departments to speak and share experiences also after that we will start with guests There will be a schedule of invitations with various projects and entrepreneurs from the crypto space. 
 
 
 **Micro-content:**
 
-- **Social media posts.**
+- **Social media posts**
 
 We have ready the main social media platforms for our content distribution. We will make a long-form video for Youtube first, then - we will distribute this video in short chunks across all our social media channels: Twitter, Telegram, Discord, Medium, Reddit, Instagram, LinkedIn, Substack.
 
