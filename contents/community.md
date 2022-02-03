@@ -51,7 +51,7 @@ Keywords will be the central axis where we will create our content around.
  2. *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
  3. *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
 
-      **3 categories of content X 5 keywords X 10 ideas each = 150 content/month**
+       *3 categories of content X 5 keywords X 10 ideas each = 150 content/month*
 
 - **Create amazing content** — Start content production:
 Anything that adds value to the viewer/reader.
