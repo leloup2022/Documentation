@@ -1,4 +1,15 @@
 ![Unite DAO](./assets/logo1.png)
+
+# Index
+
+Work in Progress:
+- [ ] (DAO Structure)[./contents/structure.md]
+- [ ] (Technology Stack)[./contents/technology.md]
+- [ ] (Tokenomics)[./contents/tokenomics.md]
+- [ ] (Building Community)[./contents/community.md]
+- [ ](Legal)[./contents/legal.md] and (Ethics)[./contents/ethics.md]
+
+
 # Problem Statement
 Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). All of these traditional institutions are usually agencies with no transparency, no interoperability, and no modern tools to develop applications on top of them.
  
@@ -13,7 +24,7 @@ Instead of trusting certificate authorities and centralized identity registries 
  
 Verifiable Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy-respecting, and machine-verifiable.
  
-## Why is SSDI not working?
+## Why is SSI not working?
 Even though there are many great initiatives in SSI, we still lack a common language for Verifiable Credentials to be completely interoperable. We still need a trusted mechanism to decide on how these credentials are created, and how they evolve. We need coordination in the management of standards, and also on how power is distributed in the issuance of credentials. Who can issue what is still a missing link in the SSI ecosystem?
  
 ## Certificate Authorities and the Problem of Trust on the Internet
@@ -123,31 +134,26 @@ That means that Fide Token Holders will be the ones who vote for candidates to b
  
 Those working groups will eventually determine and create the standards that will be applied to the whole ecosystem framework.
  
-## FIDE Distribution
-WIP 
-
- 
 # Roadmap
 ### December 2021 Incorporation
-- [x] Incorporation of newCo - SLU (owned by Alfa CAeli)
+- [x] Incorporation of newCo - SLU (owned by Alfa Caeli Spain)
 
-### February 2021 Fair Launch
-- [ ] 50MM Fides at 0,05$. newCo spends all the money of the Public Sale, paying the services in advance.
+### March 2022 Token Bootstrapping Event
+- [ ] 50MM Fides at 0,05$. newCo distribute funds to the companies involved in the launching of the DAO.
 - [ ] The newCo signs a MoU with the companies that will start the DAO, which must include a clause covering liability in case of errors
-(Initial development) [./development.md]
 
-### March 2021 DAO Incorporation
+### April 2022 DAO Incorporation
 - [ ] The DAO gets incorporated
 - [ ] UniteDAO Alfa goes online.
 - [ ] newCo closes operations, company is liquidated
 - [ ] At this point the company in Spain exists no more, only the DAO manages the treasury through proposals.
 
-### March 2021 Public Sale - Whitelisted
+### March 2022 Public Sale - Whitelisted
 - [ ] The DAO does the Public Sale - Whitelisted
 - [ ] Funds go to the treasury of the DAO
 - [ ] To participate in the Public Sale, a verification process is performed.
 
-### April 2021 Public Sale - Open
+### April 2022 Public Sale - Open
 - [ ] The DAO does the Public Sale - Open
 - [ ] Funds go to the treasury of the DAO
 
