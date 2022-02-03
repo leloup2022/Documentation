@@ -4,7 +4,7 @@
 Project success also depends on a solid and engaged community. So let's dive deep into Unite DAO community-building strategy to understand how we will build.
 
 
-**Goals:**
+## Goals:
 
 - Build a solid and engaged community.
 - Create and maintain community channels: Discord, Twitter, Telegram, Youtube.
