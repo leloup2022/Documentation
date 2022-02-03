@@ -37,23 +37,23 @@ We have ready the main social media platforms for our content distribution. We w
 
 # Content strategy:
 
-- **Inspiration** — Problems and questions people ask in our niche. 
+1. **Inspiration** — Problems and questions people ask in our niche. 
 We can look at socials and get inspiration for content. 
 
-- **Keywords** — Main keywords. 
+2. **Keywords** — Main keywords. 
 E.g., Web3 Standards, NFT gaming, Interoperability, DAO. 
 Keywords will be the central axis where we will create our content around. 
 
-- **Keyword Research** — Use Google and Youtube auto-complete functions to find keywords.
+3. **Keyword Research** — Use Google and Youtube auto-complete functions to find keywords.
 
-- **Develop Content Ideas** — Three main categories of content:
- 1. *Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
- 2. *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
- 3. *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
+4. **Develop Content Ideas** — Three main categories of content:
+ - *Motivational content - 5 keywords x 10 ideas = 50 peaces of content.*
+ - *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
+ - *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
 
        *3 categories of content X 5 keywords X 10 ideas each = 150 content/month*
 
-- **Create amazing content** — Start content production:
+5. **Create amazing content** — Start content production:
 Anything that adds value to the viewer/reader.
 
   Make sure your 3 things are right:
@@ -61,29 +61,24 @@ Anything that adds value to the viewer/reader.
  2. Keywords
  3. Links
 
-- **Content Marketing** — Start promoting the content:
+6. **Content Marketing** — Start promoting the content:
  1. Organic -— All our social network channels. 
  2. Paid — Facebook and LinkedIn ads. 
 
-## Content Strategy Map:
+7. **Content Strategy Map:**
 [Visit this link to see the Content Strategy Map](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
 
+## Re-Use the Content (Micro-content):
+
+- Break the Youtube videos into chunks/sections.
+- Optimize the copy. Turn chunks/sections into social media posts.
+- Short paragraphs - hook the reader.
+- Make it scannable/readable.
+- Create graphics/pictures for the posts.
 
 
-
-
-
-Re-Use the Content (Micro-content):
-
-Break the Youtube videos into chunks/sections.
-Optimize the copy. Turn chunks/sections into social media posts.
-Short paragraphs - hook the reader.
-Make it scannable/readable.
-Create graphics/pictures for the posts.
-
-
-Post Formula:
+## Post Formula:
 
 (Headline)
 Hook
