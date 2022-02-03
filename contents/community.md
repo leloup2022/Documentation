@@ -51,19 +51,18 @@ Keywords will be the central axis where we will create our content around.
  - *Educational content - 5 keywords x 10 ideas = 50 peaces of content.*
  - *Actionable content - 5 keywords x 10 ideas = 50 peaces of content.*
 
-'3 categories of content X 5 keywords X 10 ideas each = 150 content/month'
+`3 categories of content X 5 keywords X 10 ideas each = 150 content/month`
 
-5. **Create amazing content** — Start content production:
-Anything that adds value to the viewer/reader.
+5. **Create amazing content** — Start content production,produce anything that adds value to the viewer/reader.
 
-  Make sure your 3 things are right:
-  1. Titles
-  2. Keywords
-  3. Links
+Make sure your 3 things are right:
+- Titles
+- Keywords
+- Links
 
 6. **Content Marketing** — Start promoting the content:
-  1. Organic -— All our social network channels. 
-  2. Paid — Facebook and LinkedIn ads. 
+- Organic -— All our social network channels. 
+- Paid — Facebook and LinkedIn ads. 
 
 7. **Content Strategy Map:**
 [Visit this link to see the Content Strategy Map](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
