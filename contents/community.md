@@ -13,12 +13,12 @@ Project success also depends on a solid and engaged community. So let's dive dee
 
 **Key questions:**
 
-- *What macro content will we create?
-- *On what channels will we create it?
-- *How will we repurpose Macro-content into Micro?
-- *How will we distribute that Micro-content?
-- *How will we listen to our audience? 
-- *How will we measure our KPI’s?
+- *What macro content will we create?*
+- *On what channels will we create it?*
+- *How will we repurpose Macro-content into Micro?*
+- *How will we distribute that Micro-content?*
+- *How will we listen to our audience?*
+- *How will we measure our KPI’s?*
 
 
 **Macro-content:**
