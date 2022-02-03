@@ -151,5 +151,8 @@ Collect email addresses and start using Value VSL Strategy:
 - Support Members. `(WIP)`
 - Look for Opportunities (Partnerships). `(WIP)`
 
+# Social Channels
+[Visit this link to see all Unite DAO social channels](https://linktr.ee/unitedao)
+
 
 # The keyword for success is — VALUE.
