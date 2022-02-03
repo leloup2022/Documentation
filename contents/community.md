@@ -1,7 +1,8 @@
 # Building Community
 
 
-Project success also depends on a solid and engaged community. So let's dive deep into Unite DAO community-building strategy to understand how we will build. 
+Project success also depends on a solid and engaged community. So let's dive deep into Unite DAO community-building strategy to understand how we will build.
+
 
 **Goals:**
 
@@ -9,16 +10,18 @@ Project success also depends on a solid and engaged community. So let's dive dee
 - Create and maintain community channels: Discord, Twitter, Telegram, Youtube.
 - Create Content Strategies for the different channels.
 
-Key questions:
 
-What macro content will we create?
-On what channels will we create it?
-How will we repurpose Macro-content into Micro?
-How will we distribute that Micro-content?
-How will we listen to our audience? 
-How will we measure our KPI’s?
+**Key questions:**
 
-Macro-content:
+- What macro content will we create?
+- On what channels will we create it?
+- How will we repurpose Macro-content into Micro?
+- How will we distribute that Micro-content?
+- How will we listen to our audience? 
+- How will we measure our KPI’s?
+
+
+**Macro-content:**
 
 Youtube.
 Our focus will be on the Youtube channel. This will be our main Macro channel. The first 6 episodes will be with Alex Puig (Alex) and Arturas Salnikovas (Art). Later we will invite other team members from different departments to speak and share experiences also after that we will start with guests There will be a schedule of invitations with various projects and entrepreneurs from the crypto space. 
