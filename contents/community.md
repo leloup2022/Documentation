@@ -56,7 +56,7 @@ Keywords will be the central axis where we will create our content around.
 - **Create amazing content** — Start content production:
 Anything that adds value to the viewer/reader.
 
-Make sure your 3 things are right:
+  Make sure your 3 things are right:
 1. Titles
 2. Keywords
 3. Links
