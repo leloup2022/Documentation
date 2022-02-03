@@ -7,7 +7,7 @@ Work in Progress:
 - [ ] [Technology Stack](./contents/technology.md)
 - [ ] [Tokenomics](./contents/tokenomics.md)
 - [ ] [Building Community](./contents/community.md)
-- [ ] [Legal](./contents/legal.md] and [Ethics](./contents/ethics.md)
+- [ ] [Legal](./contents/legal.md) and [Ethics](./contents/ethics.md)
 
 
 # Problem Statement
