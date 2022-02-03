@@ -1,40 +1,41 @@
 ![Unite DAO](./assets/logo1.png)
 # Problem Statement
-Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). All of these traditional institutions are usually aencies with no transparency, no interoperability, and no modern tools to develop applications on top of them.
+Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). All of these traditional institutions are usually agencies with no transparency, no interoperability, and no modern tools to develop applications on top of them.
  
 In the traditional Identity Landscape, Trust is achieved by centralization and protection of already existing players. Innovation is always slow and limited to a small set of participants.
  
-On the other side, DAOs are becoming more popular and gaining traction as a transparent and efficient way of achieving consensus on different aspects of Society.
+On the other hand, DAOs are becoming more popular and gaining traction as a transparent and efficient way of achieving consensus on different aspects of Society.
  
-# SSI and why it's not working
+# Self-Sovereign Digital Identity (SSDI)
 Self-Sovereign Digital Identity is built upon public-key cryptography and blockchain technologies, making it possible to independently publish and verify the identity of individuals, organizations, and their devices, without the involvement of a trusted intermediary (traditionally, a certificate authority). This can provide effective resistance to censorship, manipulation of data, and mass surveillance by eliminating the necessity of trusted third parties. The use of a public blockchain is necessary to make distributed identity possible.
  
 Instead of trusting certificate authorities and centralized identity registries to hold the keys, Self-Sovereign Digital Identity allows users to keep their own private keys and their data private, and build a set of attestations or proofs about their identity, to which they can control access. They can even avoid sharing the actual data, and instead use zero-knowledge proofs to demonstrate that certain facts about them are true (e.g. proof of age, residency, nationality) without sharing their personally identifiable information.
  
 Verifiable Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy-respecting, and machine-verifiable.
  
-## Why is not working
-Even though there are many great initiatives in SSI, we still lack a common language for Verifiable Credentials to be completely interoperable. We still miss a trusted mechanism to decide on how these credentials are created, how do they evolve. We need coordination in the management of standards, and also on how power is equilibrated in the issuance of credentials. Who can issue what is still a missing link in the SSI ecosystem
+## Why is SSDI not working?
+Even though there are many great initiatives in SSI, we still lack a common language for Verifiable Credentials to be completely interoperable. We still need a trusted mechanism to decide on how these credentials are created, and how they evolve. We need coordination in the management of standards, and also on how power is distributed in the issuance of credentials. Who can issue what is still a missing link in the SSI ecosystem?
  
-## Certificate Authorities
-From the Wikipedia: In cryptography, a certificate authority or certification authority (CA) is an entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others (relying parties) to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party—trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 or EMV standard.
+## Certificate Authorities and the Problem of Trust on the Internet
+From Wikipedia: In cryptography, a certificate authority or certification authority (CA) is an entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others (relying parties) to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party—trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 or EMV standard.
  
 Trust on the Internet has come to rely almost exclusively on a selected group of institutions serving as trusted third parties to issue digital certificates. While the system works well enough for most relations with the public administration, it still suffers from the inherent weaknesses of the trust-based model.
  
 # Unite DAO
-A DAO to achieve Trustless Interoperability
-Unit DAO is a coordination framework to elaborate and evolve standards. It is based On three principles: Coordination, Verification, and Automation
- 
-- Coordination: Community-driven mechanism to elaborate and evolve standards.
-- Verification: Reputational Digital Identity for Organisations. Who they are, and what they can do.
-- Automation: On-chain and off-chain Issuance, verification, and revocation of Credentials
+All the tools to achieve Trustless Interoperability are within our grasp — we just need to bring them together in a digital-first institutional design.
 
-Unite DAO is also based in Guilds (Working Groups), where specific topics are discussed. At every level we have a Coordinator and Guilds. The Coordinator is the responsible of creating and allocating resources to Guilds.
+Unite DAO is a coordination framework to elaborate and evolve standards. It is based on three principles: Coordination, Verification, and Automation
+ 
+- Coordination: Community-driven mechanisms to propose, refine, and evolve standards.
+- Verification: Reputational Digital Identity for Organisations. Who they are, and what they can do.
+- Automation: On-chain and off-chain issuance, verification, and revocation of credentials
+
+Unite DAO will have a Guild sub-structure (Working Groups), where specific topics are discussed, refined, proposed, and developed. At every level it will have a Coordinator and Guilds. The Coordinator is responsible for creating and allocating resources to Guilds.
 Every Guild can create a new sub-Guild with a Coordinator and more Guilds, in case that particular Guild needs to scale.
 
 ![Unite DAO - Guilds](./assets/unite2.jpg)
 
-To participate in a Guild participants need to stake our Token to get Voting Power, and so, be an active part of the Guild.
+To participate in a Guild, participants need to stake the UniteDAO Token to get Voting Power, and so, be an active part of the Guild.
 Every Guild will have an elected commitee with two main roles.
 
 The process:
@@ -47,9 +48,9 @@ The process:
 
 
 ### Step 1: Coordination
-Cooperation is not possible without a common language we all agree on. And building this common framework should be a coordination task. That's why a DAO is a perfect instrument for that.
+Cooperation is not possible without a common language we all agree on. Building this common framework should be a coordination task. That's why a DAO is a perfect instrument for that.
  
-Also, Standards should be created by those using them, with Skin in the Game, not from remote offices by professional politicians.
+Also, Standards should be created by those using them, with Skin in the Game, not from remote offices by professional politicians who may be far removed from their use in the real world.
  
 To achieve that we need to create coordination working groups to focus on:
 - Protocols
@@ -57,7 +58,7 @@ To achieve that we need to create coordination working groups to focus on:
 - Compliance (security)
 - DeFi
  
-It's getting more important every day to verify that a Smart Contract has been issued by the correct organization, that has already been audited by a known company, verified in the DAO and allowed to issue a -Security TAG, and that the company works at the highest level of security constrains.
+It's getting more important every day to verify that a Smart Contract has been issued by the correct organization, that it has already been audited by a known company, verified in the DAO and allowed to issue a -Security TAG, and that the company works at the highest level of security constrains.
 Also, financial information could help take better decisions (even automated) on Risk Management and/or Investment opportunities. A verified company, with the right to isse these TAGs, could verify the TVL and/or the APY of another contract as a TAG
  
 **And Many more**
@@ -69,7 +70,7 @@ Verifiable Credentials, once identified as standards themselves, must be issued 
 - Staking & Online Court
  
 **Verification Process**
-TRusted Organizations will claim their right to issue certificates on a particular standard by participating in the standard and by proposing themselves as trusted operators for that credential. Every Working group will have a WhiteList with the TRusted Operators for every standard coordinated in that WG. 
+Trusted Organizations will claim their right to issue certificates on a particular standard by participating in the standard and by proposing themselves as trusted operators for that credential. Every Working group will have a WhiteList with the TRusted Operators for every standard coordinated in that WG. 
  
 **Staking**
 In order to become a TRsuted Operator, x number of tokens need to be staked to that particular WG. Slashing may occur when there's a bad issuance of certificates. We will rely in Kleros for this discussions.
@@ -84,22 +85,22 @@ An example of this could be the automatization of protocols and DAOs verificatio
  
 We need an automated process in order to speed up and facilitate the issuance of certificates and verifications. And not letting bad players enter, the TO will receive rewards in the form of CAELUM tokens.
  
-# Introduction to Unit DAO Tokenomics
+# Introduction to Unite DAO Tokenomics
 
-## Unit DAO essence
-When we take a look into Unit DAO structure and functions we can notice that the final goal is to create the first council’s framework within the decentralized ecosystem to enable the continuous creation and evolution of standards.
+## Unite DAO essence
+When we take a look into Unite DAO structure and functions we can notice that the final goal is to create the first council’s framework within the decentralized ecosystem to enable the continuous creation and evolution of standards.
  
 That sounds pretty cool but when it comes to coordinating people and organizations everything turns into a complete mess.
  
 We can not base a whole project only on good human behavior and altruism to develop and expand decetralized ecosystem.
  
-This is the reason for Unit DAO tokenomics. 
+This is the reason for Unite DAO tokenomics. 
  
 ## Tokenomics
-Unit DAO tokenomics aims to answer two main questions with a mathematical reliable approach:
+Unite DAO tokenomics aims to answer two main questions with a mathematical reliable approach:
  
 The first one is, how do we maintain and guarantee a sustainable and effective decentralization of voting power?
-The second one, how do we keep Unit DAO community engaged and incentivized?
+The second one, how do we keep Unite DAO community engaged and incentivized?
  
 Those two questions must be answered taking in mind one thing, Fides organic value increases over time.
  
@@ -112,11 +113,11 @@ In order to achieve this goal multiple tokenomic theories had been analyzed and 
  
 ## FIDE Token
 The FIDE Token is a Governance Token.
-Fide is Unit DAO governance token.
+Fide is Unite DAO governance token.
  
 When we explain what it Fide we could say it's something more than the simple tokenization of voting power.
  
-That means that each FIDE gives voting power to its holder. During the first stages of Unit DAO, that voting power will be useable at the 4 main frameworks mentioned before.
+That means that each FIDE gives voting power to its holder. During the first stages of Unite DAO, that voting power will be useable at the 4 main frameworks mentioned before.
  
 That means that Fide Token Holders will be the ones who vote for candidates to become part of the working groups.
  
