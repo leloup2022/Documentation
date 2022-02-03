@@ -1,7 +1,7 @@
 # Building Community
 
 
-Project success also depends on a solid and engaged community. So let's dive deep into Unite DAO community-building strategy to understand how we will build.
+Project success also depends on a solid and engaged community. So let's dive deep into the Unite DAO community-building strategy to understand how we will build.
 
 
 ## Goals:
@@ -37,7 +37,7 @@ We have ready the main social media platforms for our content distribution. We w
 
 # Content strategy:
 
-Inspiration — Problems and questions people ask in our niche. 
+- Inspiration — Problems and questions people ask in our niche. 
 We can look at socials and get inspiration for content. 
 
 Keywords — Main keywords. 
