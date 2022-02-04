@@ -1,4 +1,4 @@
-![Unite DAO](./assets/logo1.png)
+![Unite DAO](./assets/2.png)
 
 # Index
 
