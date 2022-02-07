@@ -19,3 +19,4 @@ Both goals are based on FIDE, the native token of UNITE DAO. Its main purpose ca
 -Fide Rewards. As a reward, staked FIDEs will get more FIDE in a fair distribution among the community. Participation in the UNITE DAO community will also be incentivized. 
 
 ![Fide Workflow](https://user-images.githubusercontent.com/78653335/152517463-ab878aef-7a57-40e0-a3a9-3178e448c732.PNG)
+
