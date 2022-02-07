@@ -1,3 +1,3 @@
 # Tokenomics
 
-WIP
+#Introduction to Tokenomics
