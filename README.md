@@ -3,6 +3,8 @@
 # Index
 
 Work in Progress:
+Work in Progress:
+- [ ] Purpose & Values
 - [ ] [DAO Structure](./contents/structure.md)
 - [ ] [Technology Stack](./contents/technology.md)
 - [ ] [Tokenomics](./contents/tokenomics.md)
@@ -16,6 +18,20 @@ Web3 is growing fast, but we still lack a proper way to verify organizations. At
 In the traditional Identity Landscape, Trust is achieved by centralization and protection of already existing players. Innovation is always slow and limited to a small set of participants.
  
 On the other hand, DAOs are becoming more popular and gaining traction as a transparent and efficient way of achieving consensus on different aspects of Society.
+
+# Purpose & Values
+Unite DAO’s purpose is to elaborate and evolve distributed ledger technology standards to  achieve Trustless Interoperability between systems.
+
+Unite DAO Values are
+
+Decentralization
+At Unite DAO, we encourage co-creation and dialogue through an agile self-organizing network where all members have the opportunity to contribute ideas and participate in decision-making.
+
+Rigor
+New technologies bring tremendous opportunities and avid innovators tend to jump into experimentation, sometimes, without proper assessment of risks and their potential consequences. At Unite DAO, we strive to conduct our activities in a conscientious, thorough and properly way.
+
+Respect to Laws
+Much has been said about the convenience or not of regulation of Blockchain. While not much (and surely not sufficient) specific regulation exists about Blockchain, there are numerous laws and regulations that apply to Blockchain and Crypto activities (including mercantile laws, securities laws, privacy laws, consumer protection laws, intellectual property laws, competition laws, etc.). These laws and regulations were passed with the legitimate purpose of creating a better world, fostering freedom and protect citizens from abuse.  However, these are, oftentimes, unclear, not aligned to the new distributed ledger technology paradigm and may deter the innovation that the new technologists would like to develop. At Unite DAO, we commit to always respect applicable laws and, when relevant, take the necessary steps to promote regulatory adaptation to the new technological environment.  
  
 # Self-Sovereign Digital Identity (SSDI)
 Self-Sovereign Digital Identity is built upon public-key cryptography and blockchain technologies, making it possible to independently publish and verify the identity of individuals, organizations, and their devices, without the involvement of a trusted intermediary (traditionally, a certificate authority). This can provide effective resistance to censorship, manipulation of data, and mass surveillance by eliminating the necessity of trusted third parties. The use of a public blockchain is necessary to make distributed identity possible.
