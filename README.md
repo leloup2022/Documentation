@@ -114,7 +114,17 @@ The first one is, how do we maintain and guarantee a sustainable and effective d
 The second one, how do we keep Unite DAO community engaged and incentivized?
  
 Those two questions must be answered taking in mind one thing, Fides organic value increases over time.
- 
+
+## Financing
+To build ths speacial DAO we will need financial muscle: Treasury and TBE
+
+###  Treasury Bootstrapping Event
+Fair launch of our token in a Launch Platform : [TBE](./contents/tbe.md)
+
+### Token Swaps
+We plan to buid up the treasury of the DAO by partnering with other DAOs and protocols : [Token Swaps](./contents/token_swaps.md)
+
+
 [Tokenomics](./contents/tokenomics.md)
 
 # Roadmap
