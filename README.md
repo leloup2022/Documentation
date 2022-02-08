@@ -115,25 +115,8 @@ The second one, how do we keep Unite DAO community engaged and incentivized?
  
 Those two questions must be answered taking in mind one thing, Fides organic value increases over time.
  
-## Treasury location
-If we take a look into FIDE distribution we can observe that most of FIDE tokens will be minted within the DAO treasury.
- 
-Thanks to this amount of capital we aim to be self-sustainaible. That means we are looking to generate a capital increase over time, which will allow the development and evolution of UNIT DAO.
- 
-In order to achieve this goal multiple tokenomic theories had been analyzed and synthesized. We are focusing on a way to increase the investment value at the same time that we bankroll the ecosystem develpoment.
- 
-## FIDE Token
-The FIDE Token is a Governance Token.
-Fide is Unite DAO governance token.
- 
-When we explain what it Fide we could say it's something more than the simple tokenization of voting power.
- 
-That means that each FIDE gives voting power to its holder. During the first stages of Unite DAO, that voting power will be useable at the 4 main frameworks mentioned before.
- 
-That means that Fide Token Holders will be the ones who vote for candidates to become part of the working groups.
- 
-Those working groups will eventually determine and create the standards that will be applied to the whole ecosystem framework.
- 
+[Tokenomics](./contents/tokenomics.md)
+
 # Roadmap
 ### December 2021 Incorporation
 - [x] Incorporation of newCo - SLU (owned by Alfa Caeli Spain)
